@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: minha-config
+data:
+  APP_MODE: "Developing"
+  API_URL: "https://https://api.adviceslip.com/advice"
