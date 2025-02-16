@@ -5,3 +5,4 @@ metadata:
 data:
   APP_MODE: "Developing"
   API_URL: "https://https://api.adviceslip.com/advice"
+  
